@@ -9,6 +9,7 @@ Tabla de tokens
 
 
 Tabla de simbolos
+
 ![image](https://github.com/user-attachments/assets/b33c6111-a522-432f-a361-1e0928f38b21)
 
 Grafo generado
@@ -30,6 +31,7 @@ Grafo generado
 
 
 Tabla de simbolos
+
 ![image](https://github.com/user-attachments/assets/f1e61003-7d5e-4e7c-8f76-6a6485ff68fc)
 
 Error semantico
